@@ -39,7 +39,7 @@
     position: absolute;
     width: 100%;
     height: 100%;
-    animation: slide 5s steps(4) infinite;
+    animation: slide 4s steps(4) infinite;
 }
 
 @keyframes infinite {
@@ -70,7 +70,7 @@
     font-weight: 500;
     position: relative;
     top: 0;
-    animation: slide 8s steps(4) infinite;
+    animation: slide 7s steps(4) infinite;
 }
 @keyframes slide {
   100%{
