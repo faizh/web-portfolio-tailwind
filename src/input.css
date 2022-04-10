@@ -70,7 +70,7 @@
     font-weight: 500;
     position: relative;
     top: 0;
-    animation: slide 10s steps(4) infinite;
+    animation: slide 12s steps(4) infinite;
 }
 @keyframes slide {
   100%{
@@ -91,7 +91,8 @@
   top: 0;
   height: 100%;
   width: 100%;
-  animation: appearing 2.7s infinite;
+  opacity: 100;
+  animation: appearing 3s infinite;
 }
 @keyframes typing {
   40%, 60%{
