@@ -1082,8 +1082,8 @@ Ensure the default browser behavior of the `hidden` attribute.
   top: 0;
   height: 100%;
   width: 100%;
-  -webkit-animation: appearing 2.5s infinite;
-          animation: appearing 2.5s infinite;
+  -webkit-animation: appearing 2.7s infinite;
+          animation: appearing 2.7s infinite;
 }
 
 @-webkit-keyframes typing {
