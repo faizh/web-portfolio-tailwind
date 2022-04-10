@@ -1042,8 +1042,8 @@ Ensure the default browser behavior of the `hidden` attribute.
   font-weight: 500;
   position: relative;
   top: 0;
-  -webkit-animation: slide 10s steps(4) infinite;
-          animation: slide 10s steps(4) infinite;
+  -webkit-animation: slide 12s steps(4) infinite;
+          animation: slide 12s steps(4) infinite;
 }
 
 @-webkit-keyframes slide {
@@ -1082,8 +1082,9 @@ Ensure the default browser behavior of the `hidden` attribute.
   top: 0;
   height: 100%;
   width: 100%;
-  -webkit-animation: appearing 2.7s infinite;
-          animation: appearing 2.7s infinite;
+  opacity: 100;
+  -webkit-animation: appearing 3s infinite;
+          animation: appearing 3s infinite;
 }
 
 @-webkit-keyframes typing {
