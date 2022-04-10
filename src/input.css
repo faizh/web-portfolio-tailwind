@@ -91,7 +91,7 @@
   top: 0;
   height: 100%;
   width: 100%;
-  animation: appearing 2.5s infinite;
+  animation: appearing 2.7s infinite;
 }
 @keyframes typing {
   40%, 60%{
